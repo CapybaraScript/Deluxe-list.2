@@ -1,0 +1,16 @@
+{
+  "redondoContenedor": "4",
+  "TransparenciaContenedordelElementos": "0.9",
+  "TamanoContenedor": "35",
+  "TransparenciaContenedor": "0.75",
+
+  "FrameContenedor": "225,0,255",
+  "bordes": "225,0,255",
+  "bordecuadro": "225,0,255",
+  "main": "225,0,255",
+  "ColorContenedordelElementos": "225,0,255",
+
+  "textcolor": "255,255,255",
+  "mainframeImage": "rbxassetid://",
+  "mainframeImageTransparency": "0.7"
+}
