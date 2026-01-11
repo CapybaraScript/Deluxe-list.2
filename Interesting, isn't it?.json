@@ -4,11 +4,11 @@
   "TamanoContenedor": "35",
   "TransparenciaContenedor": "0.75",
 
-  "FrameContenedor": "35,35,35",
-  "bordes": "35,35,35",
-  "bordecuadro": "35,35,35",
-  "main": "35,35,35",
-  "ColorContenedordelElementos": "40,40,40",
+  "FrameContenedor": "0,0,225",
+  "bordes": "0,0,225",
+  "bordecuadro": "0,0,225",
+  "main": "0,0,225",
+  "ColorContenedordelElementos": "0,0,225",
 
   "textcolor": "255,255,255",
   "mainframeImage": "rbxassetid://",
