@@ -1,14 +1,14 @@
 {
   "redondoContenedor": "4",
   "TransparenciaContenedordelElementos": "0.9",
-  "TamanoContenedor": "37",
+  "TamanoContenedor": "35",
   "TransparenciaContenedor": "0.75",
 
-  "FrameContenedor": "20,20,20",
-  "bordes": "220,0,0",
-  "bordecuadro": "220,0,0",
-  "main": "220,0,0",
-  "ColorContenedordelElementos": "20,20,20",
+  "FrameContenedor": "35,35,35",
+  "bordes": "35,35,35",
+  "bordecuadro": "35,35,35",
+  "main": "35,35,35",
+  "ColorContenedordelElementos": "40,40,40",
 
   "textcolor": "255,255,255",
   "mainframeImage": "rbxassetid://",
