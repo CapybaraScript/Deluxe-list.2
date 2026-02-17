@@ -1,8 +1,8 @@
 {
-  "redondoContenedor": "12",
-  "TransparenciaContenedordelElementos": "0.8",
-  "TamanoContenedor": "50",
-  "TransparenciaContenedor": "0.6",
+  "redondoContenedor": "10",
+  "TransparenciaContenedordelElementos": "0.86",
+  "TamanoContenedor": "35",
+  "TransparenciaContenedor": "0.7",
 
   "FrameContenedor": "255,0,85",
   "bordes": "255,20,147",
@@ -12,5 +12,5 @@
 
   "textcolor": "255,255,255",
   "mainframeImage": "rbxassetid://",
-  "mainframeImageTransparency": "0.5"
+  "mainframeImageTransparency": "0.8"
 }
