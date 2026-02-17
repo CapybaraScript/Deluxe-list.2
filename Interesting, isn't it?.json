@@ -1,16 +1,16 @@
 {
-  "redondoContenedor": "8",
+  "redondoContenedor": "10",
   "TransparenciaContenedordelElementos": "0.85",
-  "TamanoContenedor": "40",
-  "TransparenciaContenedor": "0.7",
+  "TamanoContenedor": "35",
+  "TransparenciaContenedor": "0.75",
 
-  "FrameContenedor": "255,182,193",
-  "bordes": "255,105,180",
-  "bordecuadro": "255,105,180",
-  "main": "255,182,193",
-  "ColorContenedordelElementos": "255,192,203",
+  "FrameContenedor": "35, 22, 28",
+  "bordes": "180, 90, 110",
+  "bordecuadro": "200, 110, 130",
+  "main": "35, 22, 28",
+  "ColorContenedordelElementos": "65, 40, 48",
 
-  "textcolor": "255,255,255",
+  "textcolor": "255, 235, 240",
   "mainframeImage": "rbxassetid://",
-  "mainframeImageTransparency": "0.6"
+  "mainframeImageTransparency": "0.88"
 }
