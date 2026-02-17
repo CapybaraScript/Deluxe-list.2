@@ -3,14 +3,12 @@
   "TransparenciaContenedordelElementos": "0.85",
   "TamanoContenedor": "35",
   "TransparenciaContenedor": "0.75",
-
-  "FrameContenedor": "35, 22, 28",
-  "bordes": "180, 90, 110",
-  "bordecuadro": "200, 110, 130",
-  "main": "35, 22, 28",
-  "ColorContenedordelElementos": "65, 40, 48",
-
-  "textcolor": "255, 235, 240",
+  "FrameContenedor": "255, 102, 153",
+  "bordes": "255, 51, 102",
+  "bordecuadro": "255, 153, 204",
+  "main": "255, 102, 153",
+  "ColorContenedordelElementos": "255, 182, 193",
+  "textcolor": "255, 240, 245",
   "mainframeImage": "rbxassetid://16327094038",
   "mainframeImageTransparency": "0.88"
 }
